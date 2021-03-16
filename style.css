@@ -6,7 +6,7 @@ body{
 h1{
 	text-align: center;
 	/*ketebalan font*/
-	font-weight: 300;
+	font-weight: 500;
 }
 
 .tulisan_login{
@@ -24,7 +24,7 @@ h1{
 }
 
 label{
-	font-size: 11pt;
+	font-size: 15pt;
 }
 
 .form_login{
@@ -32,14 +32,14 @@ label{
 	box-sizing : border-box;
 	width: 100%;
 	padding: 10px;
-	font-size: 11pt;
+	font-size: 15pt;
 	margin-bottom: 20px;
 }
 
 .tombol_login{
 	background: #46de4b;
 	color: white;
-	font-size: 11pt;
+	font-size: 15pt;
 	width: 100%;
 	border: none;
 	border-radius: 3px;
